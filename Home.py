@@ -27,9 +27,9 @@ with col1:
 
 with col2:
     st.info(f"""
-    **Student Name:** M NANTHINI  
-    **College:** XYZ  
-    **Department:** CSE  
+    **Student Name:** Hemanth Kumar Behera  
+    **College:** Raghu Institute of Technology  
+    **Department:** CSM  
     **Batch:** 2022 - 2026
     """)
 
@@ -61,4 +61,5 @@ with m4:
     st.caption("Visualizing code logic step-by-step.")
 
 st.markdown("---")
+
 st.write("👈 **Use the sidebar to explore the different lab modules.**")
